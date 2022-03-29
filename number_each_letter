@@ -29,3 +29,5 @@ for i in sentence:
             dicti.update({i : sentence.count(i)})
 
 print(dicti)
+
+print("Good luck")
