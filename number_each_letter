@@ -30,4 +30,5 @@ for i in sentence:
 
 print(dicti)
 
-print("Good luck")
+print("Good luck guys!")
+
